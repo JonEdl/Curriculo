@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(59, 57, 57);
+}
+
+#cabecalho {
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+#folha {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 50px;
+    background-color: white;
+}
+
+#fotEInformacao {
+    padding-left: 10%;
+    padding-top: 5%;
+    display: flex;
+}
+
+#informacao {
+    padding-left: 55%;
+    padding-right: 20%;
+}
+
+#tituloNome {
+    padding-left: 8%;
+}
+
+#objetivo {
+    padding-left: 8%;
+    margin-right: 101px;
+}
+
+.paragrafoPaddingLeft5 {
+    padding-left: 5%;
+}
+
+
+
